@@ -1,7 +1,7 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm Izamul Fikri!</h2>
 
 ### About me
-- I’m currently learning **Java, HTML, CSS, JS, And Other | Still Beginner btw :D**
+- I’m currently learning **Java, HTML, CSS, JS, And Others | Still Beginner btw :D**
 - Language and tool :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
