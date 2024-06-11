@@ -19,8 +19,8 @@
 I'm also interested in design and play a game sometime
 
 ## My Github Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=izamulfikri&show_icons=true&locale=en" alt="izamulfikri" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izamulfikri&show_icons=true&locale=en&layout=compact" alt="izamulfikri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=izamul&show_icons=true&locale=en" alt="izamulfikri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izamul&show_icons=true&locale=en&layout=compact" alt="izamulfikri" /></p>
 
 <!---
 izamulfikri/izamulfikri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
