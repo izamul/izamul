@@ -16,7 +16,8 @@
 <p align="left"> <a href="https://www.instagram.com/izamulfi" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="izamulfikri" /></a> </p>
 
 ## Others
-I'm also interested in design and play a game sometime
+When I'm not coding, you can find me exploring my creativity through design, diving into exciting games, getting lost in a good book, or playing music. I believe in balancing tech with a touch of fun and creativity!
+
 
 ## My Github Stats :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=izamul&show_icons=true&locale=en" alt="izamulfikri" /></p>
