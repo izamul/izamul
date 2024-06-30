@@ -11,9 +11,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
-<p align="left"> <a href="https://www.linkedin.com/in/mohammad-izamul-fikri-fahmi-886310219" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="izamulfikri" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/izamulfikri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="izamulfikri" /></a> </p>
 
-<p align="left"> <a href="https://www.instagram.com/izamulfikri" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="izamulfikri" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/izamulfi" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="izamulfikri" /></a> </p>
 
 ## Others
 I'm also interested in design and play a game sometime
