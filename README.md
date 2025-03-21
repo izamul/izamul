@@ -11,9 +11,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
-<p align="left"> <a href="https://www.linkedin.com/in/izamulfikri" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="izamulfikri" /></a> </p>
+<p align="left"> <a href="_" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="izamulfikri" /></a> </p>
 
-<p align="left"> <a href="https://www.instagram.com/izamulfi" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="izamulfikri" /></a> </p>
+<p align="left"> <a href="_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="izamulfikri" /></a> </p>
 
 ## Others
 When I'm not coding, you can find me exploring my creativity through design, diving into exciting games, getting lost in a good book, or playing music. I believe in balancing tech with a touch of fun and creativity!
