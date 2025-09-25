@@ -105,7 +105,6 @@ This GitHub serves as my public learning journal — expect to find rough drafts
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-izamulfikri03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izamulfikri03@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-izamulfikri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izamulfikri)
 
 <br/>
