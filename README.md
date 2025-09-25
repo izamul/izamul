@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Enhanced typing banner with better spacing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Hi%2C+I'm+Vncy+(Izamul+Fikri)+👋;Learning+in+public%2C+one+commit+at+a+time+🚀;Building+things+that+matter+✨" alt="Typing Introduction" />
-
 <br/>
 
 <!-- Professional tagline with better visual hierarchy -->
@@ -97,8 +94,8 @@ This GitHub serves as my public learning journal — expect to find rough drafts
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?izamul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?izamul&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=izamul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izamul&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -131,6 +128,6 @@ This GitHub serves as my public learning journal — expect to find rough drafts
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?izamul&color=blue&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=izamul&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
