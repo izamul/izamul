@@ -105,7 +105,7 @@ This GitHub serves as my public learning journal — expect to find rough drafts
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-izamulfikri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izamulfikri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-izamul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izamul)
 
 <br/>
 
