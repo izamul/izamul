@@ -2,7 +2,7 @@
 
 # izamul
 
-*Informatics grad. Backend-first. Learning in public.*
+*Informatics grad. Tidur berat-berat Ngoding tipis-tipis.*
 
 </div>
 
@@ -10,10 +10,10 @@
 
 Backend dev who enjoys building things that actually work. Currently digging into system design and microservices. Most repos here are experiments, side projects, or solutions to problems I ran into.
 
-**Stack I reach for:** Laravel · Express.js · Flask · Spring Boot · Android (Kotlin) · PyTorch
+**Stack I reach for:** Laravel · Express.js · Flask · Spring Boot · Android (Kotlin & Java) · Gofiber 
 
 ```
-Languages  →  PHP · Kotlin · Python · JavaScript · TypeScript · Java
+Languages  →  PHP · Kotlin · Python · JavaScript · TypeScript · Java · Golang
 Databases  →  MySQL · PostgreSQL
 Infra      →  Docker
 Interests  →  Audio ML · NLP · Clean architecture · API design
